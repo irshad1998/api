@@ -1,0 +1,33 @@
+[{
+	"name": "Pariyaram Medical College",
+	"place": "Pariyaram, Kannur",
+	"distance": "26.1 km",
+	"timing": "24hr",
+	"mob": "04972931401",
+	"coordinates": "12\u00b004'19.2\"N 75\u00b017'34.0\"E",
+	"position": "Pariyaram",
+	"latitude": "12.071988",
+	"longitude": "75.292763",
+	"departments": "NA",
+	"ambulance": "Available",
+	"med_store": "Available",
+	"lab": "Available",
+	"casuality": "Available",
+	"contact": "04972931401"
+}, {
+	"name": "Lourd Hospital",
+	"place": "Taliparamba, Kannur",
+	"distance": "17.0 km",
+	"timing": "24hr",
+	"mob": "+914602200160",
+	"coordinates": "12\u00b002'28.6\"N 75\u00b021'20.3\"E",
+	"position": "Taliparamba",
+	"latitude": "12.041289",
+	"longitude": "75.355637",
+	"departments": "NA",
+	"ambulance": "Available",
+	"med_store": "Available",
+	"lab": "Available",
+	"casuality": "Available",
+	"contact": "+91 4602200160"
+}]
