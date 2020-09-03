@@ -2,7 +2,7 @@
 	"name": "KGB ATM",
 	"place": "Taliparamba",
 	"distance": "17.1 km",
-	"timing": "09:00AM - 08:00PM",
+	"type": "atm",
 	"mob": "9947548838",
 	"position": "taliparamba",
 	"latitude": "12.036724",
