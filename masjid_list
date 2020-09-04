@@ -1,0 +1,17 @@
+[{
+	"name": "Tee Pee Medicals",
+	"place": "Taliparamba",
+	"distance": "17.1 km",
+	"status": "open",
+	"position": "taliparamba",
+	"latitude": "12.036724",
+	"longitude": "75.359468"
+}, {
+	"name": "Devaki Medicals",
+	"place": "Taliparamba",
+	"distance": "17.1 km",
+	"status": "closed",
+	"position": "Devaki Medicals",
+	"latitude": "12.036867",
+	"longitude": "75.359977"
+}]
