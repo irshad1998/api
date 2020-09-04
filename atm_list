@@ -7,4 +7,25 @@
 	"position": "taliparamba",
 	"latitude": "12.036724",
 	"longitude": "75.359468"
-}]
+},
+{       
+	"name": "KGB ATM",
+	"place": "Taliparamba",
+	"distance": "17.1 km",
+	"type": "atm",
+	"mob": "9947548838",
+	"position": "taliparamba",
+	"latitude": "12.036724",
+	"longitude": "75.359468"
+},
+{ 
+       "name": "KGB ATM",
+	"place": "Taliparamba",
+	"distance": "17.1 km",
+	"type": "atm",
+	"mob": "9947548838",
+	"position": "taliparamba",
+	"latitude": "12.036724",
+	"longitude": "75.359468"
+}
+]
